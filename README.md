@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rustcryptogo
 - 👀 I’m interested in Rust and WebAssembly.
-- 🌱 I’m currently learning Rust and writing.
+- 🌱 I’m currently learning Rust.
 
 
 <!---
